@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d402e007-c2d4-7ec1-b5b6-261c2dbf3077",
+      "15d1367e-048a-c7ec-bca7-663806f9679a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Software Construction",
+  "course_description": "_6.005 Software Construction_ introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. The course includes problem sets and a final project. Important topics include specifications and invariants; testing; abstract data types; design patterns for object-oriented programming; concurrent programming and concurrency; and functional programming.\n\nThe [6.005 website homepage](/ans7870/6/6.005/s16/) from Spring 2016, along with all course materials, is available to OpenCourseWare users.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.005",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Online Textbook",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
